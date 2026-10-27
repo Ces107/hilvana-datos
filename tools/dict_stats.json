@@ -1,0 +1,22 @@
+{
+ "hunspell_forms_3_8": 176803,
+ "accepted_keys": 99412,
+ "common": 18821,
+ "bonus_only": 80591,
+ "daily": 760,
+ "dropped": {
+  "no_frequency_evidence": 66397,
+  "hard_block": 169,
+  "no_vowel_or_roman": 42
+ },
+ "by_length_common": {
+  "3": 218,
+  "4": 1051,
+  "5": 2657,
+  "6": 4011,
+  "7": 5293,
+  "8": 5591
+ },
+ "words_js_kb": 435.0,
+ "daily_js_kb": 7.4
+}
